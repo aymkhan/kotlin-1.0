@@ -5,7 +5,7 @@ class LovingHut: Restaurant(4.3,"Vegan") {
         println("Welcome to Loving Hut")
     }
     override fun parking(){
-        println("Far drive: ~1.5 hours")
+        println("Easy Parking. Far drive: ~1.5 hours")
     }
 
     override fun favoriteMenuItems() {
